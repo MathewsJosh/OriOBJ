@@ -1,0 +1,38 @@
+ercicios de P.O.O. - TVC01
+
+1)Vantagens da poo:
+1-	Reutilização de codigo
+2-	Organização
+3-	Niveis avançados de abstração
+4-	Utilização de padrões
+5-	Facilidade de comunicação com usuários
+
+2) Uma maquina virtual é um software que permite instalar programas e executa-los sem afetar o sistema operacional principal.
+Vantagens:
+1-	Instalação e operação simples
+2-	Isolamento de dados e bugs
+3-	Compatibilidade
+Desvantagens:
+1-	Alto consumo de memória RAM e HD
+2-	Para um bom desempenho é necessário um bom hardware
+
+3) Objeto é definido neste modelo como um conceito, abstração ou coisa com limites e significados bem definidos para a aplicação em questão. Já uma classe de objetos descreve um grupo de objetos com propriedades (atributos) similares, comportamento (operações) similares, relacionamentos comuns com outros objetos e uma semântica comum.
+
+4) Metodos – São as coisas(funções) que um determinado objeto executa ou pode executar.
+Atributos - São as características de objetos.
+
+5) Public – Metodos, atributos ou classes que são visiveis e modificaveis para qual todos tem acesso;
+Protected – Se uma classe (mesmo que esteja fora do pacote) estende da classe com o atributo protected, ela terá acesso a ele.
+Private – A única classe que tem acesso ao atributo é a própria classe que o define.
+Default –  Todas as classes que estiverem no mesmo pacote que a classe que tem acesso.
+
+6) Alocar memória para o objeto, depois inicializar variáveis de instância e por fim chama um construtor. 
+
+7) Para referenciar o objeto que está na classe que está sendo exectada.
+
+8) Usar um mesmo “nome” para varios metodos diferentes, desde que hajam assinaturas diferentes.
+
+9) Package - Um pacote ou package na tecnologia Java nada mais é do que um conjunto de classes localizadas na mesma estrutura hierárquica de diretórios.
+
+10)
+Ex
